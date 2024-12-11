@@ -1,0 +1,34 @@
+.card {
+	background-color: #6943ff;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 375px;
+	height: 356px;
+	padding-top: 24px;
+	padding-inline: 56px;
+	border-radius: 0 0 32px 32px;
+}
+.h2 {
+	font-size: 18px;
+	color: #cac9ff;
+}
+
+.circle {
+	width: 140px;
+	height: 140px;
+	border-radius: 70px;
+	background-color: #cac9ff;
+	margin-bottom: 24px;
+}
+.great {
+	color: white;
+	font-size: 24px;
+}
+
+.text {
+	color: white;
+	text-align: center;
+	font-size: 16px;
+	font-weight: 300;
+}
