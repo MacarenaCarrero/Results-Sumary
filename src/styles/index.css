@@ -24,3 +24,8 @@ a {
 body {
 	font-family: 'Hanken Grotesk', sans-serif;
 }
+
+:root{
+	--bg-color-card:#6943FF;
+	
+}
