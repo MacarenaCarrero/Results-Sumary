@@ -24,6 +24,7 @@ const Parametros = ({}) => {
 		//<span className={senseStyle}></span>
 	//</div>);
 	//</>
-//};
+//
+ };
 
 export default Parametros;
